@@ -1,4 +1,4 @@
-<img align="Left" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="380px"/>
+
 I am an enthusiastic learner currently focused on programming with C++. In development, I'm exploring Android development (intermediate level) and Web Development (basic level).
 
 
@@ -7,6 +7,8 @@ I am an enthusiastic learner currently focused on programming with C++. In devel
 - Degree: Bachelor of Technology
 - University: Lakshmi Narain College of Technology
 - Year: 2025
+
+<img align="Left" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="380px"/>
 
 
 **Languages and Tools:** 
