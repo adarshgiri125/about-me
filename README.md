@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am enthusiastic Learner currently i am doing programming with c++ and in development i'm trying Android development(intermiediate) and Web Development(Basic)
+I am an enthusiastic learner currently focused on programming with C++. In development, I'm exploring Android development (intermediate level) and Web Development (basic level).
 
 ## Education
 
@@ -10,7 +10,11 @@ I am enthusiastic Learner currently i am doing programming with c++ and in devel
 - University: Lakshmi Narain College of Technology
 - Year: 2025
 
+## Tech Stack
 
+![Android Developer](https://github.com/adarshgiri125/adarshgiri125/blob/main/android-developer.png)
+![Web Developer](https://github.com/adarshgiri125/adarshgiri125/blob/main/web-developer.png)
+![C++ Programmer](https://github.com/adarshgiri125/adarshgiri125/blob/main/cpp-programmer.png)
 
 ## Language Contributions
 
@@ -20,6 +24,4 @@ I am enthusiastic Learner currently i am doing programming with c++ and in devel
 ## Contact Information
 
 - Email: adarshgiri125@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adarsh-giri-186881230)
-
-
+- LinkedIn: [Adarsh Giri](https://www.linkedin.com/in/adarsh-giri-186881230)
