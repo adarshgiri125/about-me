@@ -1,6 +1,3 @@
-# Adarsh Giri
-
-## About Me
 
 I am an enthusiastic learner currently focused on programming with C++. In development, I'm exploring Android development (intermediate level) and Web Development (basic level).
 
