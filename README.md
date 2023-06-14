@@ -10,11 +10,6 @@ I am an enthusiastic learner currently focused on programming with C++. In devel
 - University: Lakshmi Narain College of Technology
 - Year: 2025
 
-## Tech Stack
-
-![Android Developer](https://github.com/adarshgiri125/adarshgiri125/blob/main/android-developer.png)
-![Web Developer](https://github.com/adarshgiri125/adarshgiri125/blob/main/web-developer.png)
-![C++ Programmer](https://github.com/adarshgiri125/adarshgiri125/blob/main/cpp-programmer.png)
 
 ## Language Contributions
 
