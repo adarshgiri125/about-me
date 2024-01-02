@@ -63,7 +63,7 @@
  <h3 align="left">Coding Profiles:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adarsh-giri-186881230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh Giri" height="30" width="40" /></a>
-<a href="https://leetcode.com/code_adarsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Adarsh Giri" height="30" width="40" /></a>
+<a href="https://leetcode.com/adarshgiri125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Adarsh Giri" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adarshgiri125/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Adasrhgiri125" height="30" width="40" /></a>
 </p>
  
