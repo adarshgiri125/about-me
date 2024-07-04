@@ -1,11 +1,11 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------- -->
 <p align="center">
    <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+<!--    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"> -->
 <!--     <img align="center" height="150" width="150" src="https://infinitelyteaching.files.wordpress.com/2019/09/download-11.gif"/> -->
       <img align="center" height="150" width="150" src="https://media.giphy.com/media/ZXkraFrlIW1D25M6ZJ/giphy.gif"/>
    <!-- <img align="center" height="150" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/> -->
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+<!--    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png"> -->
    </a>
 </p>
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Welcome to My Universe! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /></h1>
@@ -82,8 +82,6 @@
 </p>
 
 ## 💻 Crafting with Cosmic Tools and Languages
-<img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
-<img align="right" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <div align items="left">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="40" height="40"/> <img 
@@ -109,9 +107,9 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 
 <p align="center">
    <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+<!--    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"> -->
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshgiri125&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+<!--    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png"> -->
    </a>
 </p>
 
